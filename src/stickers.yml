@@ -22,6 +22,14 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+f53d008d9089326635da45db4e00d4fb:
+  key: 7d6cee48972b5820e5c95e96d75ca8e9be0fadce638f9817bb1acfe5ecc61255
+  source: 'NPAC, https://www.npac.org.hk, North Point Alliance Church '
+  tags:
+    - npac
+    - cny
+  original: true
+  animated: true
 
 73a662e5754ee419fb014060d2e8399a:
   key: 22f55198a0359a062638501ed8209b818493c98d95f146724b3f6d956fe23785
